@@ -2,7 +2,7 @@
 I am tring to make File System app for IOS devices like iPhones and iPads. So that we can use and feel the file systemin IOS devices 
 at list in the app. I hope we can use our storage devices with thies devices.
 
--------File Manager for IOS Devices--------
+#-------File Manager for IOS Devices--------
 
 # 1 Basic Features: (free)
 - file manager for iPhones and iPads
