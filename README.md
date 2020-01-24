@@ -17,3 +17,6 @@
     - sharing with google drive and apple cloud
     - supports third party sharing apps like Share It, Xender, etc.
     - integration of word processor (Text Editor), pdf reader, ppt viewer, image viewer and editor.
+
+# Important Notice: 
+Sorry to inform that this project is discontinued becuase apple released this as a feature for all IOS devices.
