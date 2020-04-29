@@ -1,5 +1,5 @@
 # ios_file_system (Concept)
-    I am tring to make File System app for IOS devices like iPhones and iPads. So that we can use and feel the file 
+    I am tried to make File System app for IOS devices like iPhones and iPads. So that we can use and feel the file 
     systemin IOS devices at list in the app. I hope we can use our storage devices with thies devices.
 
 #-------File Manager for IOS Devices--------
